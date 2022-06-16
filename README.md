@@ -33,8 +33,8 @@ Analisis cluster dilakukan dengan beberapa tahapan. Berikut ini adalah tahapan-t
   - Tabulasi data
 - Pada penelitian ini, terdapat 5 halaman dashboard, yaitu:
   - Hasil Cluster
-   - ![hasil cluster (1)](https://user-images.githubusercontent.com/75960081/174028590-7857c509-b493-4512-8d3f-f27a06865add.png)
-  - ![hasil cluster(2)](https://user-images.githubusercontent.com/75960081/174028627-8a9344a8-2ffb-481b-93ba-6106779e0860.png)
+    ![hasil cluster (1)](https://user-images.githubusercontent.com/75960081/174028590-7857c509-b493-4512-8d3f-f27a06865add.png)
+    ![hasil cluster(2)](https://user-images.githubusercontent.com/75960081/174028627-8a9344a8-2ffb-481b-93ba-6106779e0860.png)
   - Garis Kemiskinan
   - ![garis kemiskinan](https://user-images.githubusercontent.com/75960081/174028622-593f8948-0689-41a7-a9f0-af5305c04152.png)
   - Persentase Penduduk Miskin
