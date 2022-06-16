@@ -29,12 +29,19 @@ Analisis cluster dilakukan dengan beberapa tahapan. Berikut ini adalah tahapan-t
     - Cluster 3 adalah kelompok provinsi yang memiliki tingkat kemiskinan tinggi, dimana rata-rata indikator Persentase Penduduk Miskin, Indeks Kedalaman, dan Indeks Keparahan  tinggi. Namun Indikator Garis Kemiskinan memiliki rata-rata yang sedang.
 
 ## Visualisasi Data dan Dashboard
+Dashboard penelitian ini bisa di akses melalui [Dashboard Tingkat Kemiskinan Indonesia](https://public.tableau.com/app/profile/risang.ayu.siwi/viz/Dashboard_16553849736090/DBCL?publish=yes)
 - Visualisasi data dilakukan pada setiap indikator tingkat kemiskinan dan hasil dari analisis cluster yang bersifat interaktif. Setelah itu visualisasi data ini akan disatukan ke dalam bentuk dashboard. Visualisasi yang digunakan adalah:
   - Peta tematik : digunakan untuk melihat persebaran setiap variabel di 34 provinsi di Indonesia
   - Bar chart : digunakan untuk membandingkan suatu variabel di tiap provinsi
   - Pie chart : digunakan untuk melihat persentase provinsi yang termasuk dalam tingkat kemiskinan rendah, sedang, atau tinggi
   - Tabulasi data : tabel yang berisi data yang digunakan
   - Boxplot : digunakan untuk melihat sebaran data dan mendeteksi outlier
+- Terdapat beberapa fitur yang ada dalam dashboard, yaitu
+  - Tombol navigasi yang terletak dalam side bar sebelah kiri yang mengarahkan untuk ke halaman yang dipilih
+  - Search Provinsi yang digunakan untuk mencari provinsi yang dituju
+  - Action yaitu suatu aksi dimana ketika mengarahkan kursor atau mengklik suatu provinsi akan terlihat keterangan masing-masing variabelnya
+  - Download yaitu untuk mengunduh visualisasi dalam bentuk image atupun pdf
+  - Tooltip yaitu ketika mengarahkan kursor ke visualisasi nya maka akan tertera penjelasan singkat mengenai hal yang ditunjuk
 - Pada penelitian ini, terdapat 5 halaman dashboard, yaitu:
   - Hasil Cluster
     ![hasil cluster (1)](https://user-images.githubusercontent.com/75960081/174028590-7857c509-b493-4512-8d3f-f27a06865add.png)
