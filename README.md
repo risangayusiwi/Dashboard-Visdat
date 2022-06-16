@@ -25,7 +25,7 @@ Pada preprocessing data dilakukan data cleaning, data integration, dan data tran
 Analisis cluster dilakukan dengan beberapa tahapan. Berikut ini adalah tahapan-tahapan menggunakan algoritma K-Means.
   - Menentukan nilai K optimal : pertimbangan memilih k optimal menggunakan metode Slihouette dan penelitian terdahulu (didapatkan k=3)
   - Cluster menggunakan K-Means : Berdasarkan hasil analisis cluster diperoleh 3 cluster, yaitu cluster 1 (tingkat kemiskinan sedang) terdiri dari 16 provinsi, cluster 2 (tingkat kemiskinan rendah) terdiri dari 15 provinsi, dan cluster 3 (tingkat kemiskinan tinggi) terdiri dari 3 provinsi.
-    ![cluster](https://user-images.githubusercontent.com/75960081/174087536-dad90b9b-feac-43a9-9979-10e85b19164a.jpg)
+    - ![cluster](https://user-images.githubusercontent.com/75960081/174087536-dad90b9b-feac-43a9-9979-10e85b19164a.jpg)
   - Karakteristik Setiap cluster : 
     - ![karakteristik](https://user-images.githubusercontent.com/75960081/174094854-f46f4f8f-da00-4ea6-b079-4a343a9b09e3.png)
     - Cluster 1 adalah kelompok provinsi yang memiliki tingkat kemiskinan sedang, dimana rata-rata indikator Persentase Penduduk Miskin, Indeks Kedalaman, dan Indeks Keparahan  sedang. Namun Indikator Garis Kemiskinan memiliki rata-rata yang rendah.
