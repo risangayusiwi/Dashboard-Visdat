@@ -44,5 +44,4 @@ Analisis cluster dilakukan dengan beberapa tahapan. Berikut ini adalah tahapan-t
   - Indeks Keparahan Kemiskinan
     ![indeks keparahan](https://user-images.githubusercontent.com/75960081/174028698-20418389-a737-491d-9d7f-3dc3dcef84af.png)
     
-## Link Dashboard
-Link menuju ke dashboard bisa diakses di [Dashboard](https://public.tableau.com/app/profile/risang.ayu.siwi/viz/Dashboard_16547056771920/DBCL)
+
