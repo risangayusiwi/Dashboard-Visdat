@@ -10,7 +10,7 @@ Variabel yang digunakan sebagai indikator adalah Garis Kemiskinan, Persentase Pe
 Dari variabel tersebut akan dilakukan analisis cluster yang menghasilkan kelompok tingkat kemiskinan.
 
 ## Preprocessing Data
-Pada prepocessing data dilakukan data cleaning, data integration, dan data transformation. 
+Pada preprocessing data dilakukan data cleaning, data integration, dan data transformation. 
 - Data cleaning  berfungsi untuk mengganti missing value, mengatasi data noise, dan  menghilangkan data yang redundan. 
 - Data integration berfungsi menggabungkan variabel-varabel menjadi satu bentuk data. 
 - Data transformation berfungsi untuk menormalisasikan data, pada tahap ini data distandarisasi agar tidak terdapat perbedaan satuan yang besar. 
