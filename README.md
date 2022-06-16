@@ -18,9 +18,9 @@ Pada preprocessing data dilakukan data cleaning, data integration, dan data tran
 ## Metode Analisis
 1. Analisis Deskriptif
   - Pada analisis deskriptif dihitung nilai minimum, nilai maksimum, rata-rata dan standar deviasi untuk melihat persebaran dari data.
-    ![deskriptif](https://user-images.githubusercontent.com/75960081/174094561-a82b21a2-3914-4163-b312-8915945d52d8.png)
+    - ![deskriptif](https://user-images.githubusercontent.com/75960081/174094561-a82b21a2-3914-4163-b312-8915945d52d8.png)
   - Selain itu, dilakukan visualisasi berupa boxplot menggunakan data yang telah distandarisasi untuk mengetahui outlier pada data.
-    ![boxplot](https://user-images.githubusercontent.com/75960081/174086895-467303a1-0b32-4016-adb0-fddecc452c5d.jpg)
+    - ![boxplot](https://user-images.githubusercontent.com/75960081/174086895-467303a1-0b32-4016-adb0-fddecc452c5d.jpg)
 2. Analisis Cluster Menggunakan K-Means
 Analisis cluster dilakukan dengan beberapa tahapan. Berikut ini adalah tahapan-tahapan menggunakan algoritma K-Means.
   - Menentukan nilai K optimal : pertimbangan memilih k optimal menggunakan metode Slihouette dan penelitian terdahulu (didapatkan k=3)
