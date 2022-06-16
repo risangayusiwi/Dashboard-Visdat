@@ -36,10 +36,10 @@ Analisis cluster dilakukan dengan beberapa tahapan. Berikut ini adalah tahapan-t
     ![hasil cluster (1)](https://user-images.githubusercontent.com/75960081/174028590-7857c509-b493-4512-8d3f-f27a06865add.png)
     ![hasil cluster(2)](https://user-images.githubusercontent.com/75960081/174028627-8a9344a8-2ffb-481b-93ba-6106779e0860.png)
   - Garis Kemiskinan
-  - ![garis kemiskinan](https://user-images.githubusercontent.com/75960081/174028622-593f8948-0689-41a7-a9f0-af5305c04152.png)
+    ![garis kemiskinan](https://user-images.githubusercontent.com/75960081/174028622-593f8948-0689-41a7-a9f0-af5305c04152.png)
   - Persentase Penduduk Miskin
-  - ![persentase penduduk miskin](https://user-images.githubusercontent.com/75960081/174028714-0a696f5f-3c0b-479f-b435-6a3fa7f682d3.png)
+    ![persentase penduduk miskin](https://user-images.githubusercontent.com/75960081/174028714-0a696f5f-3c0b-479f-b435-6a3fa7f682d3.png)
   - Indeks Kedalaman Kemiskinan
-  - ![indeks kedalaman](https://user-images.githubusercontent.com/75960081/174028676-fd583e4d-02e2-42a1-95af-667cb278b39e.png)
+    ![indeks kedalaman](https://user-images.githubusercontent.com/75960081/174028676-fd583e4d-02e2-42a1-95af-667cb278b39e.png)
   - Indeks Keparahan Kemiskinan
-  - ![indeks keparahan](https://user-images.githubusercontent.com/75960081/174028698-20418389-a737-491d-9d7f-3dc3dcef84af.png)
+    ![indeks keparahan](https://user-images.githubusercontent.com/75960081/174028698-20418389-a737-491d-9d7f-3dc3dcef84af.png)
