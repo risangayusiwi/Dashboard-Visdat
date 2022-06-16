@@ -33,13 +33,13 @@ Visualisasi data dilakukan pada setiap indikator tingkat kemiskinan dan hasil da
 - Tabulasi data
 Pada penelitian ini, terdapat 5 halaman dashboard, yaitu:
 - Hasil Cluster
-  [![cluster1](image/hasil cluster(1))
-  [![cluster2](image/hasil cluster(2))
+  - ![hasil cluster (1)](https://user-images.githubusercontent.com/75960081/174028590-7857c509-b493-4512-8d3f-f27a06865add.png)
+  - ![hasil cluster(2)](https://user-images.githubusercontent.com/75960081/174028627-8a9344a8-2ffb-481b-93ba-6106779e0860.png)
 - Garis Kemiskinan
-  [![cluster1](image/garis kemiskinan)
+  - ![garis kemiskinan](https://user-images.githubusercontent.com/75960081/174028622-593f8948-0689-41a7-a9f0-af5305c04152.png)
 - Persentase Penduduk Miskin
-  [![cluster1](image/persentase penduduk miskin)
+  - ![persentase penduduk miskin](https://user-images.githubusercontent.com/75960081/174028714-0a696f5f-3c0b-479f-b435-6a3fa7f682d3.png)
 - Indeks Kedalaman Kemiskinan
-  [![cluster1](image/indeks kedalaman)
+  - ![indeks kedalaman](https://user-images.githubusercontent.com/75960081/174028676-fd583e4d-02e2-42a1-95af-667cb278b39e.png)
 - Indeks Keparahan Kemiskinan
-  [![cluster1](image/indeks keparahan)
+  - ![indeks keparahan](https://user-images.githubusercontent.com/75960081/174028698-20418389-a737-491d-9d7f-3dc3dcef84af.png)
