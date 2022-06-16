@@ -26,20 +26,20 @@ Analisis cluster dilakukan dengan beberapa tahapan. Berikut ini adalah tahapan-t
     - Cluster 3 adalah kelompok provinsi yang memiliki tingkat kemiskinan tinggi, dimana rata-rata indikator Persentase Penduduk Miskin, Indeks Kedalaman, dan Indeks Keparahan  tinggi. Namun Indikator Garis Kemiskinan memiliki rata-rata yang sedang.
 
 ## Visualisasi Data dan Dashboard
-Visualisasi data dilakukan pada setiap indikator tingkat kemiskinan dan hasil dari analisis cluster yang bersifat interaktif. Setelah itu visualisasi data ini akan disatukan ke dalam bentuk dashboard. Visualisasi yang digunakan adalah:
-- Peta tematik : digunakan untuk melihat persebaran setiap variabel di 34 provinsi di Indonesia
-- Bar chart : digunakan untuk membandingkan suatu variabel di tiap provinsi
-- Pie chart : digunakan untuk melihat persentase provinsi yang termasuk dalam tingkat kemiskinan rendah, sedang, atau tinggi
-- Tabulasi data
-Pada penelitian ini, terdapat 5 halaman dashboard, yaitu:
-- Hasil Cluster
-  - ![hasil cluster (1)](https://user-images.githubusercontent.com/75960081/174028590-7857c509-b493-4512-8d3f-f27a06865add.png)
+- Visualisasi data dilakukan pada setiap indikator tingkat kemiskinan dan hasil dari analisis cluster yang bersifat interaktif. Setelah itu visualisasi data ini akan disatukan ke dalam bentuk dashboard. Visualisasi yang digunakan adalah:
+  - Peta tematik : digunakan untuk melihat persebaran setiap variabel di 34 provinsi di Indonesia
+  - Bar chart : digunakan untuk membandingkan suatu variabel di tiap provinsi
+  - Pie chart : digunakan untuk melihat persentase provinsi yang termasuk dalam tingkat kemiskinan rendah, sedang, atau tinggi
+  - Tabulasi data
+- Pada penelitian ini, terdapat 5 halaman dashboard, yaitu:
+  - Hasil Cluster
+   - ![hasil cluster (1)](https://user-images.githubusercontent.com/75960081/174028590-7857c509-b493-4512-8d3f-f27a06865add.png)
   - ![hasil cluster(2)](https://user-images.githubusercontent.com/75960081/174028627-8a9344a8-2ffb-481b-93ba-6106779e0860.png)
-- Garis Kemiskinan
+  - Garis Kemiskinan
   - ![garis kemiskinan](https://user-images.githubusercontent.com/75960081/174028622-593f8948-0689-41a7-a9f0-af5305c04152.png)
-- Persentase Penduduk Miskin
+  - Persentase Penduduk Miskin
   - ![persentase penduduk miskin](https://user-images.githubusercontent.com/75960081/174028714-0a696f5f-3c0b-479f-b435-6a3fa7f682d3.png)
-- Indeks Kedalaman Kemiskinan
+  - Indeks Kedalaman Kemiskinan
   - ![indeks kedalaman](https://user-images.githubusercontent.com/75960081/174028676-fd583e4d-02e2-42a1-95af-667cb278b39e.png)
-- Indeks Keparahan Kemiskinan
+  - Indeks Keparahan Kemiskinan
   - ![indeks keparahan](https://user-images.githubusercontent.com/75960081/174028698-20418389-a737-491d-9d7f-3dc3dcef84af.png)
