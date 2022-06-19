@@ -33,7 +33,7 @@ Analisis cluster dilakukan dengan beberapa tahapan. Berikut ini adalah tahapan-t
     - Cluster 3 adalah kelompok provinsi yang memiliki tingkat kemiskinan tinggi, dimana rata-rata indikator Persentase Penduduk Miskin, Indeks Kedalaman, dan Indeks Keparahan  tinggi. Namun Indikator Garis Kemiskinan memiliki rata-rata yang sedang.
 
 ## Visualisasi Data dan Dashboard
-Dashboard pada enelitian ini bisa di akses melalui [Dashboard Tingkat Kemiskinan Indonesia](https://public.tableau.com/app/profile/risang.ayu.siwi/viz/Dashboard_16553849736090/DBCL?publish=yes)
+Dashboard pada penelitian ini bisa di akses melalui [Dashboard Tingkat Kemiskinan Indonesia](https://public.tableau.com/app/profile/risang.ayu.siwi/viz/Dashboard_16553849736090/DBCL?publish=yes)
 - Visualisasi data dilakukan pada setiap indikator tingkat kemiskinan dan hasil dari analisis cluster yang bersifat interaktif. Setelah itu visualisasi data ini akan disatukan ke dalam bentuk dashboard. Visualisasi yang digunakan adalah:
   - Peta tematik : digunakan untuk melihat persebaran setiap variabel di 34 provinsi di Indonesia
   - Bar chart : digunakan untuk membandingkan suatu variabel di tiap provinsi
